@@ -4,5 +4,8 @@
     { "id": 2, "name": "Customer" },
     { "id": 3, "name": "Processes" },
     { "id": 4, "name": "Company Value" }
+  ],
+  "objective": [
+    {"id":1, "name":"Increase revenues", "perspective":1}
   ]
 }
