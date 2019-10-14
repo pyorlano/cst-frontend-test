@@ -6,7 +6,9 @@
     { "id": 4, "name": "Company Value" }
   ],
   "objectives": [
-    {"id": 1, "name": "Increase revenues", "perspective": 1},
-    {"id": 2, "name": "Increase EBIT", "perspective": 1}
+    {"id": 1, "name": "Increase revenues", "description": "Increase revenues in 10%", "perspective": 1},
+    {"id": 2, "name": "Increase EBIT", "description": "Increase EBIT by 5% during the year", "perspective": 1},
+    {"id": 3, "name": "Lower expenses", "description": "Lower operating expenses by 5% during the year", "perspective": 1},
+    {"id": 4, "name": "Increase Customer Satisfaction", "description": "Obtain NPS 9+ for all projects", "perspective": 2}   
   ]
 }
