@@ -1,8 +1,8 @@
 {
-  "objectives": [
-    { "id": 1, "name": "Increase revenues", "Owner": "CEO", "description":"Lorem ipsum dolor sit amet", "perspective": 1},
-    { "id": 2, "name": "Increase customer satisfaction", "Owner": "Ops Director", "description":"Lorem ipsum dolor sit amet", "perspective": 2},
-    { "id": 3, "name": "Create company budget", "Owner": "CFO", "description":"Lorem ipsum dolor sit amet", "perspective": 1},
-    { "id": 4, "name": "Decrease expenses", "Owner": "CFO", "description":"Lorem ipsum dolor sit amet", "perspective": 1}
+  "perspectives": [
+    { "id": 1, "name": "Financial Perspective"},
+    { "id": 2, "name": "Customer" },
+    { "id": 3, "name": "Processes" },
+    { "id": 4, "name": "Company Value" }
   ]
 }
